@@ -1,0 +1,1 @@
+puts "Goodbye, cruel world!"
